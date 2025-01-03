@@ -35,10 +35,4 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
-# 📊 GitHub Stats:
 
-![Digeesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=digeesh&show_icons=true&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=digeesh&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=digeesh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
