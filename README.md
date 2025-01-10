@@ -4,10 +4,19 @@
 👯 I’m looking to collaborate on Projects based on **MERN Stack**
 
 # 🌐 Socials:
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:digeesh038@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/digeesh-s-013051272/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/digeesh_2683)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/digee_2683/)
+<a href="mailto:digeesh038@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://www.linkedin.com/in/digeesh-s-013051272/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://x.com/digeesh_2683" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter">
+</a>
+<a href="https://www.instagram.com/digee_2683/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+
 
 # 💻 Tech Stack:
 <code><img height="85" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
