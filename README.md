@@ -7,7 +7,7 @@
 <a href="mailto:digeesh038@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white" alt="Gmail">
 </a>
-<a href="https://www.linkedin.com/in/digeesh-s-013051272/" target="_blank">
+<a href="https://www.linkedin.com/in/digeesh-s-013051272/" target="_self">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://x.com/digeesh_2683" target="_blank">
