@@ -4,7 +4,7 @@
 👯 I’m looking to collaborate on Projects based on **MERN Stack**
 
 # 🌐 Socials:
-<a href="mailto:digeesh038@gmail.com" target="_blank">
+<a href="mailto:digeesh038@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white" alt="Gmail">
 </a>
 <a href="https://www.linkedin.com/in/digeesh-s-013051272/" target="_blank">
