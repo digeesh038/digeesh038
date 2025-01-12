@@ -14,20 +14,18 @@
 <code><img height="85" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="85" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21~old.svg"></code>
 <code><img height="85" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img height="85" src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg"></code>
 <code><img height="85" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img height="85" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
 <code><img height="85" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="85" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<code><img height="85" src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg"></code>
 <code><img height="85" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img height="85" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img height="85"  width="55" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"></code>
-<code><img height="85" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+<code><img height="85" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img height="85" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 <code><img height="85" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></code>
 <code><img height="85" src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg"></code>
 <code><img height="85" width="55" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"></code>
-<code><img height="85" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
 <code><img height="85" width="55" src="https://www.svgrepo.com/show/354575/xampp.svg"></code>
 <code><img height="85" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img height="85" width="55" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"></code>
