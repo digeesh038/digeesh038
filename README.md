@@ -43,3 +43,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=digeesh038&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=digeesh038&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName="digeesh")](https://github.com/napiyo/geeksForGeeksStatsAPI)
+
