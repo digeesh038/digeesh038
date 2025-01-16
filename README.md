@@ -29,7 +29,7 @@
 <code><img height="85" width="55" src="https://www.svgrepo.com/show/354575/xampp.svg"></code>
 <code><img height="85" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img height="85" width="55" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img height="60" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img height="85" width="55" src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg"></code>
 <code><img height="85" width="55" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"></code>
 <code><img height="85" width="95" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
