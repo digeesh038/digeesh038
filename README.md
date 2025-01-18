@@ -27,7 +27,6 @@
     <code><img height="85" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
     <code><img height="85" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></code>
     <code><img height="85" src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg"></code>
-    <code><img height="85" width="55" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"></code>
     <code><img height="85" width="55" src="https://www.svgrepo.com/show/354575/xampp.svg"></code>
     <code><img height="85" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
     <code><img height="85" width="55" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"></code>
