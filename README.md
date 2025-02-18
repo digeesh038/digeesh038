@@ -21,7 +21,7 @@
     <code><img height="85" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
     <code><img height="85" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
     <code><img height="85" src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg"></code>
-    <code><img height="85" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+    <code><img height="80" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo"></code>
     <code><img height="85" width="55" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"></code>
     <code><img height="85" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
     <code><img height="85" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
