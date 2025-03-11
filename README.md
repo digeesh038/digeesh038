@@ -17,7 +17,6 @@
     <img height="85" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
     <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
     <img height="85" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
-    <img height="85" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
     <img height="85" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     <img height="85" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     <img height="85" src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg">
